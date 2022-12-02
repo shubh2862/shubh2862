@@ -1,21 +1,17 @@
 ### Hi there 👋 I’m Shubham Nigdikar
  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- 📫 How to find me: 
-  - :office: [LinkedIn](www.linkedin.com/in/shubham-nigdikar-586783147)
-[![shubh2862's github stats](https://github-readme-stats.vercel.app/api?username=shubh2862&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+### :man_technologist: About Me :
+ 
+- 👀 A **Data Science Enthusiast** with B.E. (Mechanical Engg.) from India.
+- 🌱 I’m currently learning **Deep Learning** and **Computer Vision**.
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 You can follow me on LinkedIn: :office: [LinkedIn](www.linkedin.com/in/shubham-nigdikar-586783147)
+- 💬 You can reach me on shubhamnigdikar28@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh2862)](https://github.com/shubh2862/github-readme-stats)
+---
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -29,4 +25,19 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/></a>&nbsp;
 </div>
+
+
+### :fire: My Stats :
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Shubh2862&theme=onedark)
+
+![Shubham Nigdikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh2862&show_icons=true&theme=radical)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubh2862&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2862&layout=compact&theme=vision-friendly-dark)
+
+
+
+
 
