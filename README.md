@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-**shubh2862/shubh2862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hey there! 
+68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966
+ I’m Shubham Nigdikar
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +15,6 @@
 - ⚡ Fun fact: ...
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :office: [LinkedIn](www.linkedin.com/in/shubham-nigdikar-586783147)
 [![shubh2862's github stats](https://github-readme-stats.vercel.app/api?username=shubh2862&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
